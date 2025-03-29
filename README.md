@@ -4,7 +4,7 @@ I'm a software engineer with a passion for clean, scalable code and systems-leve
 
 ## 🔧 Tech Stack
 
-- **Languages:** C++, Python, JavaScript, Java, SQL, Shell Scripting
+- **Languages:** C, C++, Python, JavaScript, Java, SQL, Shell Scripting
 - **Tools:** Git, CMake, Qt Creator, Jenkins, Visual Studio, VS Code
 - **Paradigms:** Object-Oriented, Procedural, Functional (Basic)
 - **Practices:** Agile, CI/CD, DevOps
