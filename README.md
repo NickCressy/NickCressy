@@ -6,7 +6,7 @@ I'm a software engineer with a passion for clean, scalable code and systems-leve
 
 - **Languages:** C, C++, Python, JavaScript, Java, SQL, Shell Scripting
 - **Tools:** Git, CMake, Qt Creator, Jenkins, Visual Studio, VS Code
-- **Paradigms:** Object-Oriented, Procedural, Functional (Basic)
+- **Paradigms:** Object-Oriented, Procedural, Functional (Ocaml)
 - **Practices:** Agile, CI/CD, DevOps
 - **Cloud:** AWS, GCP (Compute Engine)
 
